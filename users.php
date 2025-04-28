@@ -26,7 +26,7 @@ use MyProject\Classes\SuperUser;
 // Создание пользователей
 $User1 = new User("Иван Иванов", "ivan123", "password123");
 $User2 = new User("Петр Петров", "petr2003", "pass123");
-$User3 = new User("Илья Бычков", "ilyha", "zxcqwe");
+$User3 = new User("Владислав Герасин", "Vladgk4", "zxcqwe");
 
 // Вывод информации
 echo "<h2>Информация о пользователе:</h2>";
